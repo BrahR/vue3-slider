@@ -402,14 +402,14 @@ export default defineComponent({
 </template>
 
 <style lang="scss">
-.fade-enter-active,
+/*.fade-enter-active,
 .fade-leave-active {
   transition: opacity 0.2s;
 }
 .fade-enter,
 .fade-leave-to {
   opacity: 0;
-}
+}*/
 
 .vue3-slider {
   box-sizing: border-box;
